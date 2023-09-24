@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "8af7b94a-deb8-4401-a17f-789b7a0d5aa5",
+		"name": "PLANNING",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20762252",
+		"_collection_link": "https://winter-crescent-909780.postman.co/workspace/TODO-PLANNING~ab8de23e-1407-4d54-983e-586d169f7099/collection/20762252-8af7b94a-deb8-4401-a17f-789b7a0d5aa5?action=share&source=collection_link&creator=20762252"
+	},
+	"item": [
+		{
+			"name": "planning",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:3000/api/v1/todo/planning",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"todo",
+						"planning"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
